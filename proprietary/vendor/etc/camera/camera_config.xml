@@ -142,8 +142,34 @@ LensInfo : Information of the lens present in the module.
     <ActuatorName>lavender_s5kgm1_ofilm_i_dw9800</ActuatorName>
     <EepromName>lavender_s5kgm1sp_ofilm_i</EepromName>
     <FlashName>pmic</FlashName>
-    <ChromatixName>lavender_s5kgm1_ofilm_i_chromatix</ChromatixName>
 	<ChromatixName_india>lavender_s5kgm1_ofilm_india_i_chromatix</ChromatixName_india>
+    <ChromatixName>lavender_s5kgm1_ofilm_i_chromatix</ChromatixName>
+    <ModesSupported>1</ModesSupported>
+    <Position>BACK</Position>
+    <MountAngle>90</MountAngle>
+    <CSIInfo>
+      <CSIDCore>1</CSIDCore>
+      <LaneMask>0x1F</LaneMask>
+      <LaneAssign>0x4320</LaneAssign>
+      <ComboMode>0</ComboMode>
+    </CSIInfo>
+    <LensInfo>
+      <FocalLength>4.74</FocalLength>
+      <FNumber>1.8</FNumber>
+      <TotalFocusDistance>4.0</TotalFocusDistance>
+      <HorizontalViewAngle>67.2</HorizontalViewAngle>
+      <VerticalViewAngle>53.2</VerticalViewAngle>
+      <MinFocusDistance>0.1</MinFocusDistance>
+    </LensInfo>
+  </CameraModuleConfig>
+  <CameraModuleConfig>
+    <CameraId>1</CameraId>
+    <SensorName>lavender_s5kgm1_ofilm_iii</SensorName>
+    <ActuatorName>lavender_s5kgm1_ofilm_iii_dw9800</ActuatorName>
+    <EepromName>lavender_s5kgm1sp_ofilm_iii</EepromName>
+    <FlashName>pmic</FlashName>
+	<ChromatixName_india>lavender_s5kgm1_ofilm_india_iii_chromatix</ChromatixName_india>
+    <ChromatixName>lavender_s5kgm1_ofilm_iii_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -168,8 +194,8 @@ LensInfo : Information of the lens present in the module.
     <ActuatorName>lavender_s5kgm1_sunny_ii_dw9800</ActuatorName>
     <EepromName>lavender_s5kgm1sp_sunny_ii</EepromName>
     <FlashName>pmic</FlashName>
-    <ChromatixName>lavender_s5kgm1_sunny_ii_chromatix</ChromatixName>
 	<ChromatixName_india>lavender_s5kgm1_sunny_india_ii_chromatix</ChromatixName_india>
+    <ChromatixName>lavender_s5kgm1_sunny_ii_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>

@@ -139,12 +139,34 @@ special_mode_mask values:
       <A3Preview>lavender_ov13855_ofilm_global_i_weixin_video_3a</A3Preview>
       <A3Video>lavender_ov13855_ofilm_global_i_weixin_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="CTSVERIFY">
+      <ISPPreview>lavender_ov13855_ofilm_global_i_preview</ISPPreview>
+      <ISPSnapshot>lavender_ov13855_ofilm_global_i_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_ov13855_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>lavender_ov13855_ofilm_global_i_cpp_preview_video</CPPPreview>
+      <CPPSnapshot>lavender_ov13855_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPVideo>lavender_ov13855_ofilm_global_i_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_ov13855_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_ov13855_ofilm_global_i_default_preview_bu64297_its</A3Preview>
+      <A3Video>lavender_ov13855_ofilm_global_i_default_video_bu64297</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>lavender_ov13855_ofilm_global_i_preview</ISPPreview>
       <ISPSnapshot>lavender_ov13855_ofilm_global_i_snapshot</ISPSnapshot>
       <ISPVideo>lavender_ov13855_ofilm_global_i_default_video</ISPVideo>
       <CPPPreview>lavender_ov13855_ofilm_global_i_cpp_preview_video</CPPPreview>
       <CPPSnapshot>lavender_ov13855_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPVideo>lavender_ov13855_ofilm_global_i_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_ov13855_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_ov13855_ofilm_global_i_default_preview_bu64297</A3Preview>
+      <A3Video>lavender_ov13855_ofilm_global_i_default_video_bu64297</A3Video>
+	 </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="MFNR_MODE">
+      <ISPPreview>lavender_ov13855_ofilm_global_i_preview</ISPPreview>
+      <ISPSnapshot>lavender_ov13855_ofilm_global_i_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_ov13855_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>lavender_ov13855_ofilm_global_i_cpp_preview_video</CPPPreview>
+      <CPPSnapshot>lavender_ov13855_ofilm_global_i_cpp_snapshot_mfnr</CPPSnapshot>
       <CPPVideo>lavender_ov13855_ofilm_global_i_cpp_video</CPPVideo>
       <CPPLiveshot>lavender_ov13855_ofilm_global_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>lavender_ov13855_ofilm_global_i_default_preview_bu64297</A3Preview>
@@ -160,6 +182,17 @@ special_mode_mask values:
       <CPPLiveshot>lavender_ov13855_ofilm_global_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>lavender_ov13855_ofilm_global_i_default_preview_bu64297</A3Preview>
       <A3Video>lavender_ov13855_ofilm_global_i_default_video_bu64297_douyin</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="CTSVERIFY">
+      <ISPPreview>lavender_ov13855_ofilm_global_i_preview</ISPPreview>
+      <ISPSnapshot>lavender_ov13855_ofilm_global_i_snapshot</ISPSnapshot>
+      <ISPVideo>lavender_ov13855_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>lavender_ov13855_ofilm_global_i_cpp_preview_video</CPPPreview>
+      <CPPSnapshot>lavender_ov13855_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPVideo>lavender_ov13855_ofilm_global_i_cpp_video</CPPVideo>
+      <CPPLiveshot>lavender_ov13855_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>lavender_ov13855_ofilm_global_i_default_preview_bu64297_its</A3Preview>
+      <A3Video>lavender_ov13855_ofilm_global_i_default_video_bu64297</A3Video>
     </ChromatixName>
 	<ChromatixName sensor_resolution_index="1" special_mode_mask="WEIXIN">
       <ISPPreview>lavender_ov13855_ofilm_global_i_video_weixin_res1</ISPPreview>
